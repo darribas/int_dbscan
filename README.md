@@ -8,4 +8,5 @@ Launch the live webapp:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/darribas/int_dbscan) 
 
+![gif](dbscan.gif)
 
